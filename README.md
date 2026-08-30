@@ -1,1 +1,2 @@
 Hi, welcome to my Pull request review bot. this bot receives the pull requests using a pull technique, where it asks the APi every period of time if there is an event. then if there is a pull request that happened, the bot takes it and uses a predetermined AI, like claude, chat gpt, or gemeni to evaluate this code. if there are problems with this code, the bot writes this feedback to whoever submitted this PR. 
+oh, by the way, this project is the first one that i actually do it myself
